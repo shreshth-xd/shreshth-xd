@@ -66,9 +66,9 @@ I'm particularly interested in understanding how modern products evolve from an 
 
 ## Open To
 
-* Software Development Internships
-* Open Source Contributions
+* Internships
 * Hackathons
+* Open Source Contributions
 * Technical Collaborations
 
 > Build. Deploy. Iterate. Repeat.
