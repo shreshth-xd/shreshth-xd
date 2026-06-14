@@ -1,4 +1,3 @@
-<img width="1025" height="840" alt="image" src="https://github.com/user-attachments/assets/c796ea65-e9e0-4e51-9357-0bd539e0c38e" /># Shreshth Kanchan
 
 I like understanding how software behaves beyond my local machine.
 
