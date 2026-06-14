@@ -1,10 +1,7 @@
 # Shreshth Kanchan
 
-I like understanding how software behaves beyond my local machine.
+A CS Sophomore building backend heavy systems by turning ideas into products that people can actually use. I love learning and incorporating modern technologies and integrating AI as a layer to solve problems in an optimised way and understanding how software behaves beyond my local machine. Continuing to build more optimised end projects and looking forward for opportunities or to collaborate with like minded folks.
 
-That curiosity has led me from building full-stack applications to working with databases, deployment workflows, cloud services, backend systems, and the realities of maintaining software after it ships.
-
-I'm a CS Sophomore focused on building production-oriented software, exploring modern backend systems, and turning ideas into products that people can actually use.
 
 ## What I'm Building
 
@@ -53,7 +50,7 @@ Backend Systems • Cloud • DevOps • AI Applications • Web3 • Open Sourc
 
 
 
-## Community
+## Work Experience
 
 **GDGoC Volunteer**
 Contributed across two semesters through technical initiatives, developer events, and community-driven learning activities.
