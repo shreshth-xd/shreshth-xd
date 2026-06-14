@@ -20,11 +20,26 @@ A URL shortening platform with link management and micro-analytics, built with a
 
 Backend Systems • Cloud • DevOps • AI Applications • Web3 • Open Source
 
-Building products with:
+## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,postgres,mongodb,docker,linux,git,github" />
+### Languages & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,postgres,mongodb" />
 </p>
+
+### Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+</p>
+
 
 ## Community
 
