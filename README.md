@@ -1,4 +1,4 @@
-# Shreshth Kanchan
+<img width="1025" height="840" alt="image" src="https://github.com/user-attachments/assets/c796ea65-e9e0-4e51-9357-0bd539e0c38e" /># Shreshth Kanchan
 
 I like understanding how software behaves beyond my local machine.
 
@@ -20,11 +20,10 @@ A URL shortening platform with link management and micro-analytics, built with a
 
 Backend Systems • Cloud • DevOps • AI Applications • Web3 • Open Source
 
-## Toolbox
+Building products with:
 
 <p align="left">
-  <!-- Replace with your preferred icon provider -->
-  Git · GitHub · JavaScript · Next.js · Node.js · PostgreSQL · MongoDB · Docker · Linux
+  <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,postgres,mongodb,docker,linux,git,github" />
 </p>
 
 ## Community
