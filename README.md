@@ -1,4 +1,4 @@
-## Shreshth Kanchan
+# Shreshth Kanchan
 
 I like understanding how software behaves beyond my local machine.
 
