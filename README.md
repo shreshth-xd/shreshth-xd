@@ -22,23 +22,32 @@ Backend Systems • Cloud • DevOps • AI Applications • Web3 • Open Sourc
 
 ## Tech Stack
 
-### Languages & Databases
+### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,postgres,mongodb" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity)
 
-### Development
+### Backend & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs" />
-</p>
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Tools & Infrastructure
+### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+
+### Infrastructure & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+
 
 
 ## Community
